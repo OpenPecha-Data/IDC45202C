@@ -1,0 +1,37 @@
+id: IDC45202C
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:41:21.813867'
+last_modified: '2022-06-19T02:41:21.813883'
+parser: null
+source_metadata:
+  title: Drag shul Phrin las rin chens (1871–1935) Sakya Genealogy Supplement
+  author: དྲག་ཤུལ་འཕྲིན་ལས་རིན་ཆེན།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2012-09); converted
+    from external file, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:unspecified (main portion from an unspecified source), Kunga Dorje
+    (Kathmandu) (kun), Losal Dondrup (Dehradun) (ld)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun), Losal Dondrup (ld)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/230
+  bases:
+    3caa:
+      title: Drag shul Phrin las rin chens (1871–1935) Sakya Genealogy Supplement
+      order: 1
+      base_file: 3caa.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
